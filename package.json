@@ -1,0 +1,27 @@
+{
+    "name": "infominds-common-extension-pack",
+    "displayName": "Infominds Common Extension Pack",
+    "description": "",
+    "version": "1.0.0",
+    "publisher": "InfomindsAG",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/InfomindsAg/vscode-infominds-common-pack.git"
+    },
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "infomindsag.xsharp-lang",
+        "eamodio.gitlens",
+        "mhutchie.git-graph",
+        "mechatroner.rainbow-csv",
+        "coenraads.bracket-pair-colorizer-2",
+        "redhat.vscode-xml",
+        "ms-vscode.powershell"
+    ]
+}
