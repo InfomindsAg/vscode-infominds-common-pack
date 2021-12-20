@@ -2,7 +2,7 @@
     "name": "infominds-common-extension-pack",
     "displayName": "Infominds Common Extension Pack",
     "description": "",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "InfomindsAG",
     "license": "MIT",
     "repository": {
@@ -20,7 +20,6 @@
         "eamodio.gitlens",
         "mhutchie.git-graph",
         "mechatroner.rainbow-csv",
-        "coenraads.bracket-pair-colorizer-2",
         "redhat.vscode-xml",
         "ms-vscode.powershell"
     ]
