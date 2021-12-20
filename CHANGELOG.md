@@ -7,6 +7,9 @@
 - GitLens
 - Git Graph
 - Rainbow CSV
-- Bracket Pair Colorizer 2
 - XML Red Hat
 - PowerShell
+
+## Version 1.0.1: December 20, 2021
+
+Removed "Bracket Pair Colorizer 2", because its functionality is now standard in vscode
